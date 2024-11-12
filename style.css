@@ -1,0 +1,7 @@
+.pine {
+  background-color: green;
+  image-rendering: crisp-edges;
+}
+.pine{
+  background-image: linear-gradient(90deg, rgba(2,0,36,0.8197872899159664) 0%, rgba(9,9,121,0.6097032563025211) 49%, rgba(0,212,255,1) 100%), url("./");
+}
